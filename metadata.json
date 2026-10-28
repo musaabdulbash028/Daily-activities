@@ -1,0 +1,6 @@
+{
+  "name": "LifeOS — AI-Powered Personal Life Optimizer",
+  "description": "A comprehensive personal life optimizer for students and everyday users: smart daily planning, AI study coaching, safe workout planning, meditation, focus training, habits, and sleep management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
